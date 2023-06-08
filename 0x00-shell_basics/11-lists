@@ -1,4 +1,3 @@
 #!/bin/bash 
 ls -la
-ls -l -a
 ls -la /boot 
