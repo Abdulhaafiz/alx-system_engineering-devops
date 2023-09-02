@@ -1,2 +1,2 @@
 #!/bin/bash
-find .. -type -f chmod 751 hello
+chmod 750 hello 
