@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -exec chmod ugo=+x {hello} \
+find . -type f -name "hello" -exec chmod 751 {hello} \
